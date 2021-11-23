@@ -6,8 +6,8 @@
 para resolver problemas eficientemente y lograr las metas y objetivos trazados.</p>
 
 <a href="https://www.facebook.com/profile.php?id=100007603664641" target="_blank"><img width="45" src="https://i.ibb.co/N2b8yMZ/facebook.png" alt="facebook" border="0"></a>
-<a href="#" target="_blank"><img width="45" src="https://i.ibb.co/kGcrbhV/instagram.png" alt="instagram" border="0"></a>
-<a href="#" target="_blank"><img width="45" src="https://i.ibb.co/9td0jrS/linkedin.png" alt="linkedin" border="0"></a>
+<a href="https://www.instagram.com/alejandro.echenique11/" target="_blank"><img width="45" src="https://i.ibb.co/kGcrbhV/instagram.png" alt="instagram" border="0"></a>
+<a href="https://www.linkedin.com/in/alejandro-daniel-echenique-romero-20931921a" target="_blank"><img width="45" src="https://i.ibb.co/9td0jrS/linkedin.png" alt="linkedin" border="0"></a>
 
 <h1>Experiencia</h1>
 <img align="right" width="25%" src="https://i.ibb.co/qy1KCtx/Dise-o-sin-t-tulo-4.png" alt="Programador" border="0">
