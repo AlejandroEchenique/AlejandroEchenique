@@ -19,7 +19,7 @@
   <li>Desarrollo de aplicaciones y sitios web.</li>
   <li>Integraciones de API de CRM a sistemas externos.</li>
 </ul>
-
+<hr>
 <h3><b>Auxiliar de Sistemas</b></h3>
 <p>Universidad Privada Domingo Savio Sede-Tarija</p>
 <p>Junio 2021 - Marzo 2023</p>
