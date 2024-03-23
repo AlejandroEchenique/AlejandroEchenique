@@ -11,9 +11,18 @@
 <h1>Experiencia</h1>
 <img align="right" width="25%" src="https://i.ibb.co/qy1KCtx/Dise-o-sin-t-tulo-4.png" alt="Programador" border="0">
 
+<h3><b>Desarrollador Web</b></h3>
+<p>101 Digital</p>
+<p>Abril 2023 - Actualmente</p>
+<ul>
+  <li>Gestión y administración de servidores y repositorios.</li>
+  <li>Desarrollo de aplicaciones y sitios web.</li>
+  <li>Integraciones de API de CRM a sistemas externos.</li>
+</ul>
+
 <h3><b>Auxiliar de Sistemas</b></h3>
 <p>Universidad Privada Domingo Savio Sede-Tarija</p>
-<p>Junio 2021 - Diciembre 2022</p>
+<p>Junio 2021 - Marzo 2023</p>
 <ul>
   <li>Desarrollo de aplicaciones web de carácter administrativo y académico para la universidad.</li>
   <li>Soporte y mantenimiento a los sistemas administrativos y académicos de la institución.</li>
